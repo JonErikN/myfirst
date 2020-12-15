@@ -1,4 +1,5 @@
 import time
+from Graceful_killer import GracefulKiller
 
 def main():
     killer = GracefulKiller()
